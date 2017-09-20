@@ -1,0 +1,29 @@
+body
+{
+    background-color: #C01818;
+}
+div
+{
+    color: white;
+    font-family: montserrat;
+    letter-spacing: 20px;
+
+}
+.background
+{
+    padding: 50px;
+    color: white;
+    font-family:Garamond;
+    background-image: url("tech.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p
+{
+    letter-spacing: 0px;
+    font-size: 20;
+    font-family :papyrus;
+
+}
+
+
